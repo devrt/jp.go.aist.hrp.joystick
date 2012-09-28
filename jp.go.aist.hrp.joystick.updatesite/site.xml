@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/jp.go.aist.hrp.joystick.feature_1.0.0.qualifier.jar" id="jp.go.aist.hrp.joystick.feature" version="1.0.0.qualifier"/>
+   <feature url="features/jp.go.aist.hrp.joystick.feature_1.0.0.201209281705.jar" id="jp.go.aist.hrp.joystick.feature" version="1.0.0.201209281705"/>
 </site>
